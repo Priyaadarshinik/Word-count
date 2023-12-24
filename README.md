@@ -18,6 +18,15 @@ Run the python program in terminal to get the output.
 ### Step 6: 
 Number of words in the txt file is displayed as the output.
 ## PROGRAM:
+```
+#Program to find number of words in a text file 
+#Developed By: PRIYAADARSHINI.K
+#Register no : 23000629
+
+with open("wordcount.txt","r") as f:
+    r=f.read().split()
+    print(len(r))
+```
 
 ### OUTPUT:
 ![output](/output.png)
