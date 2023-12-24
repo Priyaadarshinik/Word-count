@@ -17,6 +17,7 @@ Save the python program using .py extention.
 Run the python program in terminal to get the output.
 ### Step 6: 
 Number of words in the txt file is displayed as the output.
+
 ## PROGRAM:
 ```
 #Program to find number of words in a text file 
